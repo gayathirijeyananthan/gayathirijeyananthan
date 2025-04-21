@@ -4,10 +4,10 @@ Welcome to my GitHub profile! Here's a little about me
 
 -  **I'm passionate about** Teaching, learning, and empowering others through knowledge.  
 -  **Currently pursuing** Bachelor of Information Technology (BIT).
--  
+   
 -  **Skills**  
   - Teaching technical concepts and guiding students.  
-  - Basics of web development and programming.  
+  - Basics of web development and programming. 
   - MERN Stack enthusiast, exploring modern web technologies.
  
 Dream big and remember, consistency is the key.
