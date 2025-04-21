@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here's a little about me
 
 -  **I'm passionate about** Teaching, learning, and empowering others through knowledge.  
--  **Currently pursuing ** Bachelor of Information Technology (BIT).  
+-  **Currently pursuing** Bachelor of Information Technology (BIT).  
 -  **Skills:**  
   - Teaching technical concepts and guiding students.  
   - Basics of web development and programming.  
